@@ -1,0 +1,2 @@
+# stereotyped
+Interview stereotyped
